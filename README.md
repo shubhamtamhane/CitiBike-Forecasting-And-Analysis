@@ -67,4 +67,14 @@ Comparing actual vs. predicted real-time displays helps ensure the reliability a
 
 
 
+### Environment Setup:
+Configure your Spark environment and install necessary dependencies as outlined in the documentation.
 
+### Execute the Pipeline:
+Run the ETL pipeline, EDA, and modeling scripts in the specified order.
+
+### Deployment:
+Deploy the application components as required for monitoring and real-time display.
+
+### Conclusion
+This project provides a robust end-to-end solution for processing and modeling bike sharing data. From raw data extraction to real-time monitoring, each component is meticulously designed to ensure data quality, model accuracy, and system reliability. The modular structure allows for easy customization and scalability, making it suitable for a variety of bike sharing scenarios.
