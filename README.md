@@ -25,11 +25,11 @@ The gold level encapsulates application and monitoring data. It represents the h
 
 ### Streaming Definition
 
-The Spark streaming job script (`etl/scripts/spark_streaming_job.py`) defines the schema and data transformations applied to the streaming data. This ensures a standardized and consistent approach to data processing.
+The Spark streaming job script defines the schema and data transformations applied to the streaming data. This ensures a standardized and consistent approach to data processing. 
 
 ## Exploratory Data Analysis (EDA)
 
-EDA scripts, found in the `eda/` directory, aim to provide insights into the bike sharing data. The analysis covers various aspects, including monthly trip trends, daily trip trends, the impact of holidays on system use, and the influence of weather on daily/hourly trends.
+EDA scripts aim to provide insights into the bike sharing data. The analysis covers various aspects, including monthly trip trends, daily trip trends, the impact of holidays on system use, and the influence of weather on daily/hourly trends.
 
 ## Modeling and ML Ops
 
